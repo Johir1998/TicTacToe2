@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+
+    <string name="Title_Text">Alert title</string>
+
+    <string name="Message_Text">Do you want to exit?</string>
+
+    <string name="SearchView_Title">Search</string>
+</resources>
